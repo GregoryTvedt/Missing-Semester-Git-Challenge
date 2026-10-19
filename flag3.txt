@@ -1,1 +1,1 @@
-COMP_SOC{se3_th3_d1ffer3nce}
+COMP_SOC{Se3_Th3_D1ffer3nce}
